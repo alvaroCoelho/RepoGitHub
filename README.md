@@ -15,3 +15,7 @@ Nesse projeto é possível:
 - Pesquisar por nome do repositório publico do  Github;
 - Ver detalhes de  um repositório.
 
+
+Para executar a aplicação, baixar o arquivo zipado abaixo que contém  .apk (arquivo de instalação) e instalar em um dispositivo.
+
+[app.zip](https://github.com/alvaroCoelho/RepoGitHub/files/5745528/app.zip)
