@@ -12,7 +12,7 @@ public class Client {
 
     public static final String BASE_URL = "https://api.github.com/";
     public static final String USER = "alvaroCoelho";
-    public static final String TOKEN = "2866008c8989db7d18907397ba27bdac389fffc6";
+    public static final String TOKEN = "139c8de440d12b2afcea0c2571e84ae0a9cf29da";
     public static Retrofit retrofit = null;
     public static OkHttpClient.Builder httpClient = new OkHttpClient.Builder();
 
