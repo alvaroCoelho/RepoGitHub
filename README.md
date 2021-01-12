@@ -18,4 +18,5 @@ Nesse projeto é possível:
 
 Para executar a aplicação, baixar o arquivo zipado abaixo que contém  .apk (arquivo de instalação) e instalar em um dispositivo.
 
-[app.zip](https://github.com/alvaroCoelho/RepoGitHub/files/5745528/app.zip)
+[app-debug.zip](https://github.com/alvaroCoelho/RepoGitHub/files/5804633/app-debug.zip)
+
